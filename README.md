@@ -1,0 +1,2 @@
+# passgen-termux
+senha
