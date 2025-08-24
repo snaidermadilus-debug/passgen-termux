@@ -12,7 +12,7 @@ Gerador de senhas seguras em **Go** para **Termux**. Permite definir tamanho, in
 - ✅ Gerar múltiplas senhas de uma vez  
 - ✅ Funciona direto no **Termux**  
 ./passgen -l 32 -s -count 5
-               👆
+               👈
            você pode modificar esse código também você pode botar o número que você quer esse código aqui
 ---
 
